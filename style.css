@@ -1,0 +1,20 @@
+body {
+  overflow-x: hidden;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#portofolio {
+  background-color: #e2edff;
+}
+
+#team {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
